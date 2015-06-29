@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A Stripe Gateway addon to the Events Manager Pro plugin.
+A Stripe Gateway for Events Manager Pro plugin.
 
 == Description ==
 
