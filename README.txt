@@ -34,6 +34,16 @@ Events Manager Stripe Edition works like any standard Wordpress plugin, and once
 
 Once installed, you can enable the Stripe gateway in the Events -> Gateways administration section, after adding your API keys, available from your stripe.com admin console.
 
+== Screenshots ==
+
+1. Activate Stripe Gateways.
+2. After activate Stripe gateway, you need to set Test Secret Key, Test Publishable Key, Live Secret Key and Live Publishable Key information.
+3. Once you’ve activated Stripe gateways, they will be made available as payment options on your booking form for any event with chargeable tickets (i.e. non-free events).
+
+== Changelog ==
+= 1.0 =
+* Initial Release
+
 == Frequently Asked Questions ==
 
 = Do I need Events Manager Pro? =
@@ -44,6 +54,3 @@ Its very simple. open Events menu, go to Payment Gateway menu. there you seen st
 
 = What is Stripe API KEYS =
 You can find api key from your stripe account.  https://dashboard.stripe.com/account/apikeys. here both live api keys and test apis key shown.
-
-== Screenshots ==
-1. its very simply. you only need to activate this plugin. after activating you will see stripe in payment gateway page of Events.
