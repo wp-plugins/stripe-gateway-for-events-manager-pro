@@ -1,6 +1,6 @@
 === Stripe Gateway for Events Manager Pro ===
 Contributors: kirit-dholakiya
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=67KHCQ47R8T6C
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SJPK3B4AWKKBA
 Tags: events, event, event registration, event calendar, events calendar, event management, stripe, paypal, addon, extension, addition, registration, ticket, tickets, ticketing, tickets, theme, widget, locations, maps, booking, attendance, attendee, calendar, gigs, payment, payments
 Requires at least: 3.8
 Tested up to: 4.2.2
