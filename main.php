@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Stripe Gateway - Events Manager Pro
-Plugin URI: http://oliveconcepts.com/
+Plugin URI: http://oliveconcepts.com/downloads
 Description: Stripe Payment Gateway for Events Manager Pro plugin. Its give credit card option to process payment in your site.
 Version: 1.0
 Author: Oliveconcepts
